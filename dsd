@@ -1,0 +1,35 @@
+[33mcommit edc9bfcaf047ab6f4b559ff89adf205914c8eb11[m[33m ([m[1;36mHEAD -> [m[1;32mnew_branch[m[33m)[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Thu Jan 13 17:19:19 2022 +0500
+
+    2 commit in to new branch
+
+[33mcommit ca97e907e68a32b57963c98096a85541a501c106[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Thu Jan 13 17:17:10 2022 +0500
+
+    commit in to branch master
+
+[33mcommit 49ce530f827af60abaf1df34a1064e44f69a8b7b[m[33m ([m[1;32mreadme[m[33m)[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Tue Jan 11 15:29:48 2022 +0500
+
+    2 commit
+
+[33mcommit 36ce5d6fca5a88bcbae4b4f2ca12cada0ec9f0c0[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Mon Jan 10 13:51:39 2022 +0500
+
+    test commit 2
+
+[33mcommit e7bbd0e8386b58088bd7c4bb2872d6be03410e28[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Mon Jan 10 13:50:25 2022 +0500
+
+    test commit
+
+[33mcommit 88a37b70b8d73ca0947fbae35ad75c8e6bccf498[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Eduard Vardikyan <eduardvardikyan@gmail.com>
+Date:   Fri Jan 7 10:13:20 2022 +0500
+
+    First commit
